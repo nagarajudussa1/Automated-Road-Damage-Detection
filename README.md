@@ -216,7 +216,8 @@ Dataset sources may include:
 
 
 ## Detection Output
-<img width="633" height="542" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/50ec3305-e48a-450d-ad39-e54d94ed3862" />
+<img width="542" height="282" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/967142d8-01b4-4e40-b300-e6cb08a03fc0" />
+
 
 
 
