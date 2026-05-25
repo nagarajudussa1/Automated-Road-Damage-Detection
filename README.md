@@ -141,21 +141,26 @@ run.bat
 
 # Input
 
-The system accepts road images as input.
+The system accepts road images for road damage analysis.
 
-Place input images inside:
+Place all test images inside:
 
 ```bash
 testImages/
 ```
 
+Supported damages include:
+- Potholes
+- Cracks
+- Surface deformities
+
 ---
 
 # Output
 
-The system processes the images and detects damaged regions such as potholes and cracks.
+The model analyzes the input images and detects road damages using deep learning techniques.
 
-Generated output images are stored inside:
+Processed output images with detected damage regions are automatically stored inside:
 
 ```bash
 Output/
@@ -211,7 +216,8 @@ Dataset sources may include:
 
 
 ## Detection Output
-<img width="1366" height="768" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/7c9d5b43-f0ae-478e-b980-b68e58059bae" />
+<img width="633" height="542" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/50ec3305-e48a-450d-ad39-e54d94ed3862" />
+
 
 
 ---
